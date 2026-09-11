@@ -1,49 +1,56 @@
 # Hi, I'm Saloua Korchi 👋
 
-🎓 AI & Computer Engineering Student  
-🤖 Artificial Intelligence | Machine Learning | NLP | Deep Learning  
-💻 Python | Scikit-learn | TensorFlow | SQL
+🎓 **AI & Computer Engineering Student**
+🤖 **Artificial Intelligence · Machine Learning · Deep Learning · NLP**
+💻 **Python · Scikit-learn · TensorFlow · Pandas · SQL**
 
-## About Me
+## 👩‍💻 About Me
 
-I am an Artificial Intelligence engineering student passionate about
-Machine Learning, Natural Language Processing and intelligent systems.
+I am an **Artificial Intelligence engineering student** passionate about Machine Learning, Natural Language Processing and intelligent systems.
 
-I enjoy building practical AI projects that solve real-world problems,
-from intelligent web applications to predictive models and NLP solutions.
+I enjoy developing practical projects that combine **AI, data and software engineering**, from NLP and LLM applications to predictive models and optimization tools.
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🏙️ Intelligent Citizen Complaints Management System
-An intelligent web-based system designed to automate the processing
-and management of citizen complaints for the Directorate of Commerce
-of Tizi-Ouzou.
+### 🧠 NLP Job Extraction with LLMs
 
-**Technologies:** Python, NLP, Machine Learning, Web Development
+A complete NLP pipeline that extracts structured information from English job offers using **LLMs and prompt engineering**.
+
+**Technologies:** Python, NLP, LLMs, Prompt Engineering, Hugging Face, Flask
+
+### 💬 Financial Sentiment Analysis
+
+NLP project for financial sentiment classification using **FinBERT** and machine learning techniques.
+
+**Technologies:** Python, NLP, Transformers, FinBERT, Machine Learning
+
+### 🏙️ Intelligent Citizen Complaints Management
+
+Intelligent web application for automatically processing and classifying citizen complaints.
+
+**Technologies:** Python, NLP, Machine Learning, FastAPI, Docker
 
 ### 🚕 Dynamic Pricing Prediction – Uber
-A machine learning project focused on dynamic price prediction
-for ride-hailing services.
+
+Machine learning project for predicting dynamic ride-hailing prices using statistical and deep learning approaches.
 
 **Technologies:** Python, Machine Learning, Deep Learning, Time Series
 
-### 🧠 Natural Language Processing Projects
-Projects focused on text processing, classification and
-Natural Language Processing techniques.
+### 🔢 Branch & Bound Solver
 
-**Technologies:** Python, NLP, Machine Learning
+Interactive application for solving and visualizing **Integer Programming** problems using the Branch & Bound algorithm.
+
+**Technologies:** Python, Streamlit, SciPy, NumPy, Plotly
 
 ## 🛠️ Technical Skills
 
-- Python
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- TensorFlow
-- Scikit-learn
-- Pandas
-- SQL
-- Data Analysis
+**Programming:** Python, SQL, Java
+
+**AI & Machine Learning:** Machine Learning, Deep Learning, NLP, Transformers, LLMs
+
+**Libraries & Frameworks:** Scikit-learn, TensorFlow, Pandas, NumPy, Hugging Face, FastAPI, Flask, Streamlit
+
+**Data & Visualization:** Data Analysis, Time Series, Plotly
 
 ## 📫 Contact
 
